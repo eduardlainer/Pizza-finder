@@ -1,4 +1,4 @@
-# Pizzafinder
+# Pizzafinder Server
 
 ### Coded in
-Java, Springboot, Hibernate, MySQL, jUnit + Mockito
+Java, Springboot, JPA, Hibernate, MySQL, jUnit, Mockito, Flyway.
