@@ -1,4 +1,4 @@
-## Pizzafinder
+# Pizzafinder
 
 ### Coded in
-*Java, Springboot, Hibernate, MySQL, jUnit + Mockito
+Java, Springboot, Hibernate, MySQL, jUnit + Mockito
